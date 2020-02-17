@@ -1,0 +1,27 @@
+Git Hub.
+Version Control
+Tmro different features/extra comments xa vaye chai yelle save garera rakhxa
+
+Huge advantage- Back Tracking
+Software 1.0 - Naya Software 1.1
+
+Team Cordination
+
+Unlimited Storage
+
+Disadvantage
+
+Privacy- Pay
+Differnent Human Solvable Conflict
+
+
+Git clonning "address".
+Git Status
+Git Log
+
+Git push origin master
+
+Git pull origin master
+
+Git commit -m "Your Message"
+
